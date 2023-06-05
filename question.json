@@ -1,0 +1,7 @@
+{
+  "category": "Geografía",
+  "question": "¿Cuál es el país más grande del mundo en términos de superficie?",
+  "options": ["China", "Estados Unidos", "Rusia"],
+  "answer": 2,
+  "explanation": "Rusia es el país más grande del mundo en términos de superficie, con una extensión aproximada de 17,1 millones de kilómetros cuadrados."
+}
